@@ -8,7 +8,7 @@ $ django-admin.py startproject something-wonderful --template=https://github.com
 
 -------
 
-# {{ project_name }}
+# djoserdjangoaxesexample
 
 # installation
 
