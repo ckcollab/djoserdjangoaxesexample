@@ -15,5 +15,6 @@ $ django-admin.py startproject something-wonderful --template=https://github.com
 ```bash
 $ cp .env_sample .env
 $ docker-compose up -d
+$ docker-compose exec django ./manage.py migrate
 # can now view http://localhost or http://localhost:8000
 ```
