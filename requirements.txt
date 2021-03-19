@@ -14,7 +14,7 @@ whitenoise==3.3.0
 
 
 # this is all the latest as of oct 19 2019
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djoser==2.0.3
 django-axes==5.0.18
 djangorestframework_simplejwt==4.3.0
